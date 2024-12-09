@@ -1,9 +1,28 @@
-IBM Telcommunication Customer Churn Analysis using PowerBI
+IBM Telecommunication Customer Churn Analysis using Power BI
+This project showcases my data management and analytics skills using Power Query and Power BI by creating a report on IBM Telco customers in California during the third quarter. The analysis identifies key trends and patterns contributing to the high churn rate during this period, with an average churn score of 58.7.
 
-This project is here to demonstrate my data management and analytics skills through Power Query and PowerBI by creating a report on IBM Telco custoemrs in Calfiornia during 3rd quarter
+Dataset Source:
+The original dataset was obtained from Kaggle: Telco Customer Churn - IBM Dataset.
 
-Here is the link where I got the original date from: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
+Project Steps and Insights:
+Data Cleaning and Preparation:
+I cleaned the raw data to ensure accuracy and consistency, addressing missing or duplicate entries. Using Power Query, I transformed the dataset into a structured format suitable for analysis.
 
-Steps on How I created my report and to see my thinking process:
+Data Structuring:
 
-1.
+Created pivot tables to organize the data efficiently.
+Streamlined data fields to enable detailed insights and facilitate easier analysis.
+Statistical Analysis:
+
+Calculated key metrics such as:
+Average churn score.
+Average charges incurred by customers.
+Average Customer Lifetime Value (CLTV) score.
+Visualization and Reporting:
+Designed an interactive Power BI dashboard with:
+
+A Churn Reasons chart highlighting the primary causes of customer churn.
+Visual comparisons of churn rates based on gender and senior citizen status.
+A concise summary table providing an overview of critical data points.
+This comprehensive report provides actionable insights into churn patterns, equipping decision-makers with the tools to develop targeted strategies for customer retention and improved service delivery.
+
